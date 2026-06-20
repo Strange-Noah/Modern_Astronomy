@@ -50,6 +50,4 @@ This part of the homework focuses on visual interpretation and science communica
 - `modernastro_hw3_spr2026.pdf`: Original homework assignment handout.
 - `homework3_written_response.ipynb`: Full written response for the homework.
 
-## Notes
 
-This folder has been reorganized to separate the two independent components of the homework. The original assignment handout and full written response are kept at the root level, while supporting materials are grouped by topic.
