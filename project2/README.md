@@ -2,7 +2,7 @@
 
 This folder contains the materials for Project 2 of **Modern Astronomy**, Spring 2026, Peking University.
 
-Project 2 is based on the citizen science platform **Planet Hunters TESS**. The project explores how exoplanet detection can benefit from the complementary strengths of human visual inspection and algorithmic analysis. In addition to discussing the role of citizen scientists in identifying possible transit signals, this project introduces an automated detection pipeline as a comparison point.
+Project 2 is based on the citizen science platform **Planet Hunters TESS** (link: https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/classify/workflow/11235). The project explores how exoplanet detection can benefit from the complementary strengths of human visual inspection and algorithmic analysis. In addition to discussing the role of citizen scientists in identifying possible transit signals, this project introduces an automated detection pipeline as a comparison point.
 
 The central question is:
 
