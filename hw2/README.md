@@ -30,6 +30,3 @@ hw2/
 - `hw2_submission.pdf`: Final submitted version of the homework.
 - `hw2_spring.pdf`: Original assignment handout.
 
-## Notes
-
-This folder is preserved as coursework material, but it has been lightly reorganized so that the data, analysis files, and final outputs are easier to understand.
