@@ -11,3 +11,8 @@ __pycache__/
 
 # macOS system files
 .DS_Store
+
+# Project 2 generated or temporary data artifacts
+project2/data/*.fits
+project2/data/*.html
+project2/data/**/figures/
