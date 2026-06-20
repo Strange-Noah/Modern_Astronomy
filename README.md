@@ -39,9 +39,9 @@ This assignment focuses on identifying and visualizing the Pleiades star cluster
 
 This section combines science writing on the James Webb Space Telescope with a data analysis exercise based on Hubble’s 1929 velocity-distance data. The Hubble-related work reproduces the basic idea behind the velocity-distance relation and compares the fitted result with a modern reference value.
 
-### Homework 4: Python Numerical Computation
+### Homework 4: Numerical Analysis of Stellar Lifetime
 
-This homework contains Python-based numerical computation and visualization work. It will be further organized after the notebooks and figures are reviewed.
+Homework 4 is organized around a numerical analysis project on stellar lifetime. Using Python-based computation and visualization, the project explores the relationship between stellar mass and lifetime, and presents the resulting plots alongside the full written response.
 
 ### Project 1: The Nice Model
 
